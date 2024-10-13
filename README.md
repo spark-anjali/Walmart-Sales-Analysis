@@ -25,8 +25,9 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 |cogs	|Cost Of Goods sold	|DECIMAL(10, 2)|
 |gross_margin_percentage	|Gross margin percentage|	FLOAT(11, 9)|
 |gross_income|	Gross Income	|DECIMAL(10, 2)|
-|rating	Rating	|FLOAT(2, 1)|
-Analysis List
+|rating	|Rating	|FLOAT(2, 1)|
+
+## Analysis List
 Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
